@@ -47,5 +47,7 @@ native/target
 xcuserdata
 jniLibs
 
+native/target
+
 Cargo.lock
 pubspec.lock
